@@ -10,7 +10,7 @@ public class Task9 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String name = scanner.nextLine();
-        String age = scanner.nextLine();
+        int age = scanner.nextInt();
         System.out.println("меня зовут " + name + ", мне " + age + " лет");
     }
 }
