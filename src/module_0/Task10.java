@@ -2,7 +2,7 @@
  * Считать с консоли строку со своим девизом по жизни и выведи ее 5 разю.
  */
 
-package module_1;
+package module_0;
 
 import java.util.Scanner;
 

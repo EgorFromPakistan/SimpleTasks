@@ -2,7 +2,7 @@
  * Объявить переменную типа int, присвоить ей год своего рожения и вывести на экран.
  */
 
-package module_1;
+package module_0;
 
 public class Task3 {
     public static void main(String[] args) {

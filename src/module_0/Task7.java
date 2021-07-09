@@ -2,7 +2,7 @@
  * Объяви две переменные типа int, присвой им любые числовые значения, выведи на экран их сумму.
  */
 
-package module_1;
+package module_0;
 
 public class Task7 {
     public static void main(String[] args) {

@@ -2,7 +2,7 @@
  * Вывести на консоль Hello, <name>, где это твоё имя.
  */
 
-package module_1;
+package module_0;
 
 import java.util.Scanner;
 
