@@ -1,7 +1,7 @@
 /**
  * Найти значение функции : z = ((a-3)*b/2)+c
  */
-package module_1;
+package module_1.linear;
 
 public class Task1 {
     public static void main(String[] args) {
